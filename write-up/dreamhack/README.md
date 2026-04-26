@@ -35,6 +35,7 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
+| #017 | Arm Training-v1 | pwnable | 2026-04-26 |
 | #016 | likeb64 | crypto | 2026-04-04 |
 | #015 | broken-png | misc | 2026-04-03 |
 | #014 | simple-ssti | web | 2026-03-31 |
