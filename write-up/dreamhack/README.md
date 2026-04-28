@@ -35,7 +35,8 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
-| #018 | datestring | pwnable | 2026-04-28 |
+| #019 | datestring | pwnable | 2026-04-28 |
+| #018 | Base64 Encoder | pwnable | 2026-04-27 |
 | #017 | Arm Training-v1 | pwnable | 2026-04-26 |
 | #016 | likeb64 | crypto | 2026-04-04 |
 | #015 | broken-png | misc | 2026-04-03 |
