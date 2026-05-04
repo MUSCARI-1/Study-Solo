@@ -35,6 +35,7 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
+| #021 | out_of_bound | pwnable | 2026-05-04 |
 | #020 | Is Over 100? | pwnable | 2026-04-29 |
 | #019 | datestring | pwnable | 2026-04-28 |
 | #018 | Base64 Encoder | pwnable | 2026-04-27 |
