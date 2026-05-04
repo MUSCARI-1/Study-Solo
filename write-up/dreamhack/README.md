@@ -35,6 +35,7 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
+| #025 | awesome-basics | pwnable | 2026-05-04 |
 | #024 | cpp_string | pwnable | 2026-05-04 |
 | #023 | cmd_center | pwnable | 2026-05-04 |
 | #022 | sint | pwnable | 2026-05-04 |
