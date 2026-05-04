@@ -35,6 +35,8 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
+| #023 | cmd_center | pwnable | 2026-05-04 |
+| #022 | sint | pwnable | 2026-05-04 |
 | #021 | out_of_bound | pwnable | 2026-05-04 |
 | #020 | Is Over 100? | pwnable | 2026-04-29 |
 | #019 | datestring | pwnable | 2026-04-28 |
