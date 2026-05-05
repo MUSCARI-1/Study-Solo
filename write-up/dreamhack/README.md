@@ -35,6 +35,7 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
+| #026 | mmapped | pwnable | 2026-05-05 |
 | #025 | awesome-basics | pwnable | 2026-05-04 |
 | #024 | cpp_string | pwnable | 2026-05-04 |
 | #023 | cmd_center | pwnable | 2026-05-04 |
