@@ -35,6 +35,7 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
+| #027 | Cherry | pwnable | 2026-05-05 |
 | #026 | mmapped | pwnable | 2026-05-05 |
 | #025 | awesome-basics | pwnable | 2026-05-04 |
 | #024 | cpp_string | pwnable | 2026-05-04 |
