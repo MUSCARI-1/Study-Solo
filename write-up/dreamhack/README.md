@@ -35,6 +35,7 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
+| #028 | Cat Jump | pwnable | 2026-05-06 |
 | #027 | Cherry | pwnable | 2026-05-05 |
 | #026 | mmapped | pwnable | 2026-05-05 |
 | #025 | awesome-basics | pwnable | 2026-05-04 |
