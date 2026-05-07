@@ -35,6 +35,7 @@
 
 | ID | Title | Category | Solved Date |
 | :--- | :--- | :--- | :--- |
+| #029 | struct person_t | pwnable | 2026-05-07 |
 | #029 | No mov | pwnable | 2026-05-07 |
 | #028 | Cat Jump | pwnable | 2026-05-06 |
 | #027 | Cherry | pwnable | 2026-05-05 |
